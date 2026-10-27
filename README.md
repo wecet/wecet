@@ -6,7 +6,7 @@
 ---
 
 <table width="100%">
-<tr><th align="left">Projects <sub>· click one for a demo</sub></th></tr>
+<tr><th align="left">Projects <sub>· click the text for a demo</sub></th></tr>
 <tr><td>
 
 <details>
@@ -60,7 +60,7 @@
 ---
 
 <table width="100%">
-<tr><th align="left">Websites <sub>· built for groups I'm part of, source not public</sub></th></tr>
+<tr><th align="left">Websites <sub>· built for groups I'm part of, source not public (obviously) </sub></th></tr>
 <tr><td>
 
 <details>
