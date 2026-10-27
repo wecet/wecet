@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="132" viewBox="0 0 1200 132" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"><style>.glow{animation:pulse 6s ease-in-out infinite}@keyframes pulse{50%{opacity:.45}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+  <defs><radialGradient id="glow"><stop offset="0" stop-color="#4aa8ff" stop-opacity=".22"/><stop offset="1" stop-color="#4aa8ff" stop-opacity="0"/></radialGradient></defs>
+  <rect x="1" y="1" width="1198" height="130" rx="18" fill="#f6f4ef" stroke="#1f2328" stroke-opacity=".1"/>
+  <circle class="glow" cx="76" cy="66" r="110" fill="url(#glow)"/>
+  <rect x="40" y="30" width="72" height="72" rx="18" fill="#4aa8ff" fill-opacity=".14" stroke="#4aa8ff" stroke-opacity=".5"/>
+  <text x="76" y="78" text-anchor="middle" font-size="34" fill="#4aa8ff">❄</text>
+  <text x="140" y="50" font-size="26" font-weight="700" fill="#1f2328">GreeBar</text>
+  <text x="140" y="80" font-size="18" fill="#57606a">My air con, from the macOS menu bar</text>
+  <rect x="140" y="94" width="62" height="26" rx="13" fill="#1f2328" fill-opacity=".06" stroke="#1f2328" stroke-opacity=".12"/><text x="171" y="112" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#424a53">Swift</text><rect x="210.0" y="94" width="79" height="26" rx="13" fill="#1f2328" fill-opacity=".06" stroke="#1f2328" stroke-opacity=".12"/><text x="249" y="112" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#424a53">SwiftUI</text><rect x="296.8" y="94" width="28" height="26" rx="13" fill="#1f2328" fill-opacity=".06" stroke="#1f2328" stroke-opacity=".12"/><text x="311" y="112" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#424a53">C</text>
+  <text x="1160" y="112" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="1.5" fill="#424a53">CLICK FOR DEMO ▾</text>
+</svg>
