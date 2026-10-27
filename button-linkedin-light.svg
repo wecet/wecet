@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="248" height="48" viewBox="0 0 248 48" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"><style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+  <rect x=".5" y=".5" width="247" height="47" rx="10" fill="#eaeef2" stroke="#d0d7de"/>
+  <rect x="16" y="12" width="24" height="24" rx="5" fill="#0a66c2"/>
+  <text x="28" y="30" text-anchor="middle" font-size="15" font-weight="800" fill="#ffffff">in</text>
+  <text x="54" y="30" font-size="15" font-weight="600" fill="#1f2328">Connect on LinkedIn</text>
+  <text x="230" y="30" text-anchor="end" font-size="15" fill="#59636e">→</text>
+</svg>

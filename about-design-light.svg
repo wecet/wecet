@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="210" viewBox="0 0 600 210" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"><style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+  <rect x=".5" y=".5" width="599" height="209" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+  <rect x="40" y="24" width="34" height="34" rx="8" fill="#8250df" fill-opacity=".14" stroke="#8250df" stroke-opacity=".5"/><text x="57.0" y="46" text-anchor="middle" font-size="16" fill="#8250df">✎</text>
+  <text x="88" y="46" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="2" fill="#8250df">ALWAYS</text>
+  
+  <text x="40" y="98" font-size="27" font-weight="700" fill="#1f2328">A passion for design</text>
+  <text x="40" y="132" font-size="18" fill="#59636e">I care as much about how something looks</text><text x="40" y="158" font-size="18" fill="#59636e">as how it works, from app UIs down to</text><text x="40" y="184" font-size="18" fill="#59636e">the whales on this page.</text>
+</svg>
