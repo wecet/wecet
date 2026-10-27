@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/wecet/wecet/refs/heads/assets/header.svg?v=2" alt="Hi, I'm Owen. AI Engineer at AIVHY, computer vision specialist." width="100%">
 
 - At [AIVHY](https://aivhy.com) I build industrial image classification, anomaly detection and object detection, deployed with Docker on edge devices
-- I care as much about how something looks as how it works
+- Passion for designing 
 
 ---
 
