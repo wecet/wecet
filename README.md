@@ -6,6 +6,7 @@
 </p>
 
 <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wecet/wecet/refs/heads/assets/div-projects-light.svg?v=3"><img src="https://raw.githubusercontent.com/wecet/wecet/refs/heads/assets/div-projects.svg?v=3" alt="Projects" width="100%"></picture>
+<sub>Side projects I built for myself and kept public. Click a card to see it in action.</sub><br>
 
 <details>
 <summary><picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wecet/wecet/refs/heads/assets/card-ember-light.svg?v=2"><img src="https://raw.githubusercontent.com/wecet/wecet/refs/heads/assets/card-ember.svg?v=2" alt="Ember: the gym tracker I actually use" width="96%"></picture></summary>
@@ -33,6 +34,7 @@
 </details>
 
 <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wecet/wecet/refs/heads/assets/div-websites-light.svg?v=3"><img src="https://raw.githubusercontent.com/wecet/wecet/refs/heads/assets/div-websites.svg?v=3" alt="Websites, built for groups I'm part of" width="100%"></picture>
+<sub>Public websites for organisations I love, deployed on Cloudflare. The source? Not public, obviously.</sub><br>
 
 <details>
 <summary><picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wecet/wecet/refs/heads/assets/card-maleth-light.svg?v=2"><img src="https://raw.githubusercontent.com/wecet/wecet/refs/heads/assets/card-maleth.svg?v=2" alt="malethalbionfc.com: my football team" width="96%"></picture></summary>
@@ -44,6 +46,7 @@
 </details>
 
 <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wecet/wecet/refs/heads/assets/div-background-light.svg?v=3"><img src="https://raw.githubusercontent.com/wecet/wecet/refs/heads/assets/div-background.svg?v=3" alt="Background" width="100%"></picture>
+<sub>Where I learned AI, and where I've been putting it to work since.</sub><br>
 
 <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wecet/wecet/refs/heads/assets/timeline-light.svg?v=2"><img src="https://raw.githubusercontent.com/wecet/wecet/refs/heads/assets/timeline.svg?v=2" alt="BSc in AI, University of Malta, 2019 to 2022. MSc in AI, University of Malta, 2022 to 2024. AI Engineer at iGolf.One, 2022 to 2023. AI Engineer at AIVHY, 2023 to now." width="100%"></picture>
 
