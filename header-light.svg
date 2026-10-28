@@ -1,13 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"><style>
-    .type{animation:type 2.2s steps(14,end) .3s both}
-    @keyframes type{from{width:0}to{width:560px}}
-    .caret{animation:blink 1s step-end infinite}
-    @keyframes blink{50%{opacity:0}}
-    .caretmove{animation:caret 2.2s steps(14,end) .3s both}
-    @keyframes caret{from{transform:translateX(0)}to{transform:translateX(392px)}}
-    .fade{opacity:0;animation:fade .8s ease-out forwards}
-    @keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
-    @keyframes twinkle{0%,100%{opacity:.15}50%{opacity:.7}}@keyframes roll0{to{transform:translateX(-1296.00px)}}@keyframes bob0{from{transform:translateY(-1px)}to{transform:translateY(1.5px)}}@keyframes roll1{to{transform:translateX(-1296.00px)}}@keyframes bob1{from{transform:translateY(-1px)}to{transform:translateY(1.5px)}}@keyframes roll2{to{transform:translateX(-1346.40px)}}@keyframes bob2{from{transform:translateY(-1px)}to{transform:translateY(1.5px)}}@keyframes roll3{to{transform:translateX(-1296.00px)}}@keyframes bob3{from{transform:translateY(-1px)}to{transform:translateY(1.5px)}}@keyframes roll4{to{transform:translateX(-1310.40px)}}@keyframes bob4{from{transform:translateY(-1px)}to{transform:translateY(1.5px)}}@keyframes roll5{to{transform:translateX(-1310.40px)}}@keyframes bob5{from{transform:translateY(-1px)}to{transform:translateY(1.5px)}}.sw{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;white-space:pre}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"><style>.type{animation:type 2.2s steps(14,end) .3s both}
+@keyframes type{from{width:0}to{width:560px}}
+.caret{animation:blink 1s step-end infinite}
+@keyframes blink{50%{opacity:0}}
+.caretmove{animation:caret 2.2s steps(14,end) .3s both}
+@keyframes caret{from{transform:translateX(0)}to{transform:translateX(392px)}}
+.fade{opacity:0;animation:fade .8s ease-out forwards}
+@keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes twinkle{0%,100%{opacity:.15}50%{opacity:.7}}@keyframes roll0{to{transform:translateX(-1296.00px)}}@keyframes bob0{from{transform:translateY(-1px)}to{transform:translateY(1.5px)}}@keyframes roll1{to{transform:translateX(-1296.00px)}}@keyframes bob1{from{transform:translateY(-1px)}to{transform:translateY(1.5px)}}@keyframes roll2{to{transform:translateX(-1346.40px)}}@keyframes bob2{from{transform:translateY(-1px)}to{transform:translateY(1.5px)}}@keyframes roll3{to{transform:translateX(-1296.00px)}}@keyframes bob3{from{transform:translateY(-1px)}to{transform:translateY(1.5px)}}@keyframes roll4{to{transform:translateX(-1310.40px)}}@keyframes bob4{from{transform:translateY(-1px)}to{transform:translateY(1.5px)}}@keyframes roll5{to{transform:translateX(-1310.40px)}}@keyframes bob5{from{transform:translateY(-1px)}to{transform:translateY(1.5px)}}.sw{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;white-space:pre}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
   <defs>
     <clipPath id="card"><rect width="1200" height="340" rx="12"/></clipPath>
     <clipPath id="typeclip"><rect class="type" x="76" y="60" height="100" width="560"/></clipPath>

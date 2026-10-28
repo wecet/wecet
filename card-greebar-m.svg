@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="212" viewBox="0 0 600 212" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"><style>.glow{animation:pulse 6s ease-in-out infinite}@keyframes pulse{50%{opacity:.45}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+  <defs><radialGradient id="glow"><stop offset="0" stop-color="#58a6ff" stop-opacity=".18"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></radialGradient>
+  <clipPath id="c"><rect width="600" height="212" rx="12"/></clipPath></defs>
+  <g clip-path="url(#c)"><rect width="600" height="212" fill="#161b22"/><circle class="glow" cx="64" cy="64" r="110" fill="url(#glow)"/></g>
+  <rect x=".5" y=".5" width="599" height="211" rx="12" fill="none" stroke="#30363d"/>
+  <rect x="32" y="28" width="64" height="64" rx="16" fill="#58a6ff" fill-opacity=".14" stroke="#58a6ff" stroke-opacity=".5"/><text x="64.0" y="70" text-anchor="middle" font-size="30" fill="#58a6ff">❄</text>
+  <text x="116" y="62" font-size="32" font-weight="700" fill="#e6edf3">GreeBar</text>
+  <text x="116" y="90" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" letter-spacing="1.5" fill="#8d96a0">TAP FOR DEMO ▾</text>
+  <text x="32" y="132" font-size="23" fill="#8d96a0">My air con, from the macOS menu bar</text>
+  <rect x="32" y="152" width="72" height="34" rx="17.0" fill="#21262d" stroke="#30363d"/><text x="68" y="175" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#8d96a0">Swift</text><rect x="112" y="152" width="93" height="34" rx="17.0" fill="#21262d" stroke="#30363d"/><text x="158" y="175" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#8d96a0">SwiftUI</text><rect x="213" y="152" width="30" height="34" rx="17.0" fill="#21262d" stroke="#30363d"/><text x="228" y="175" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#8d96a0">C</text>
+</svg>
