@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="242" viewBox="0 0 600 242" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"><style>.glow{animation:pulse 6s ease-in-out infinite}@keyframes pulse{50%{opacity:.45}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+  <defs><radialGradient id="glow"><stop offset="0" stop-color="#bc4c00" stop-opacity=".18"/><stop offset="1" stop-color="#bc4c00" stop-opacity="0"/></radialGradient>
+  <clipPath id="c"><rect width="600" height="242" rx="12"/></clipPath></defs>
+  <g clip-path="url(#c)"><rect width="600" height="242" fill="#f6f8fa"/><circle class="glow" cx="64" cy="64" r="110" fill="url(#glow)"/></g>
+  <rect x=".5" y=".5" width="599" height="241" rx="12" fill="none" stroke="#d0d7de"/>
+  <rect x="32" y="28" width="64" height="64" rx="16" fill="#bc4c00" fill-opacity=".14" stroke="#bc4c00" stroke-opacity=".5"/><text x="64.0" y="70" text-anchor="middle" font-size="30" fill="#bc4c00">◐</text>
+  <text x="116" y="62" font-size="32" font-weight="700" fill="#1f2328">Tempo</text>
+  <text x="116" y="90" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" letter-spacing="1.5" fill="#59636e">TAP FOR DEMO ▾</text>
+  <text x="32" y="132" font-size="23" fill="#59636e">The gym and football tracker I actually use,</text><text x="32" y="162" font-size="23" fill="#59636e">with a tappable muscle map and recovery fade</text>
+  <rect x="32" y="182" width="124" height="34" rx="17.0" fill="#eaeef2" stroke="#d0d7de"/><text x="94" y="205" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#59636e">TypeScript</text><rect x="164" y="182" width="82" height="34" rx="17.0" fill="#eaeef2" stroke="#d0d7de"/><text x="205" y="205" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#59636e">SQLite</text><rect x="254" y="182" width="82" height="34" rx="17.0" fill="#eaeef2" stroke="#d0d7de"/><text x="296" y="205" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#59636e">Docker</text>
+</svg>
